@@ -75,11 +75,11 @@
 <!--   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code> -->
   <hr>
   <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+<!--  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <p><img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Falexdebrie%2Fawesome-dynamodb&psig=AOvVaw0seeHdv84PiEoGjTSW_rrR&ust=1626358462031000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJj57sXf4vECFQAAAAAdAAAAABAD" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fthetechportal.com%2F2019%2F12%2F03%2Famazon-aws-cloud-quantum-computing%2F&psig=AOvVaw2GDtIUj2ELM2q-hKMlWSu_&ust=1626358494777000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNCNvdbf4vECFQAAAAAdAAAAABAS" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+<br><br><br><br><br> -->
 
 <hr>
 
