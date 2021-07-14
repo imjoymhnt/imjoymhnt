@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co/0XYjLpk" height="200" width="500"/>
+  <img src="https://pasteboard.co/Kb8TTCd.png" height="200" width="500"/>
 </p>
 <br>
 
@@ -72,7 +72,7 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
   <code> <img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNode.js&psig=AOvVaw3CmcFjOCVtaoKh5zSc0VzD&ust=1626358417059000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCODnrrDf4vECFQAAAAAdAAAAABAD"> </code>
   <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
+<!--   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code> -->
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
